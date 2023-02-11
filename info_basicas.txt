@@ -1,0 +1,9 @@
+"empresa"	"indice_solucao"	"nao_respondidas"	"avaliadas"	"nota"	"nota_consumidor"	"percent_voltariam"	"qnt_reclamacoes"	"principal_problema"	"qtn_problema"	"link_loja"	"per_nao_respondidas"
+"FinanZero"	"100"	"4"	44	9.6	9.71	"87.8"	107	"Propaganda enganosa"	21.88	"https://www.reclameaqui.com.br/empresa/finanzero/"	3.7
+"Banco BV"	"76.1"	"0"	2764	7.2	5.95	"57.7"	9927	"Cobrança indevida"	9.29	"https://www.reclameaqui.com.br/empresa/bv-financeira/"	0
+"Creditas"	"89.8"	"30"	383	8.2	7.39	"67.1"	1293	"Propaganda enganosa"	10.6	"https://www.reclameaqui.com.br/empresa/creditas/"	2.3
+"Inter"	"82.6"	"1144"	10056	8	7.27	"73.6"	26136	"Outro problema"	14.54	"https://www.reclameaqui.com.br/empresa/inter/"	4.4
+"meutudo."	"59.1"	"139"	727	6.3	5.07	"51.3"	5914	"Descumprimento de acordo"	18.7	"https://www.reclameaqui.com.br/empresa/meu-tudo-financeira/"	2.4
+"Banco Bmg"	"83.9"	"13"	2493	7.8	6.92	"62.8"	9246	"Cobrança indevida"	11.32	"https://www.reclameaqui.com.br/empresa/banco-bmg/"	0.1
+"Safra Financeira (Veículos e Consignados)"	"76.5"	"77"	523	7.3	6.38	"59.5"	2001	"Dificuldade em realizar acordo"	10.74	"https://www.reclameaqui.com.br/empresa/safra-financiamento-de-veiculos/"	3.8
+"Banco PAN"	"83.8"	"3047"	7948	7.6	6.67	"62.6"	40408	"Cobrança indevida"	10.37	"https://www.reclameaqui.com.br/empresa/banco-pan/"	7.5
