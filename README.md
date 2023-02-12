@@ -13,3 +13,11 @@ Repositório usado para estudo
   - comparação empresa vs total dos dados
   - mapa com a localização das reclamações
     - filtro por estado, empresa e gênero do consumidor
+
+### Próximos passos:
+
+- Reestruturar o app usando módulos
+- Corrigir as falhas dos códigos de scraping
+- criar um DB para salvar os dados coletados
+- criar imagens (docker) para o DB, app e scrapers
+- conectar todos usando docker compose
